@@ -27,6 +27,20 @@
 1. Клонировать репозиторий:
 
 ```bash
-git clone <URL_репозитория>
-cd <название_папки>
+git clone https://github.com/WiperZ69/product-card.git
+cd product-card
 ```
+2. Установка зависимостей:
+
+```bash
+npm install
+```
+3. Старт:
+   
+```bash
+npm run dev
+```
+
+4. Откройте проект в браузере
+   
+
